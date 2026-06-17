@@ -54,4 +54,4 @@ Raporun kaynakça bölümünde (Bölüm 10) tüm akademik referanslar listelenmi
 
 ## Yazar
 
-Aslınur Benli — 20231101045
+Aslınur Benli 
